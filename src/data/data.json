@@ -1,0 +1,116 @@
+{
+  "news": [
+    {
+      "img": "./src/img/news/2.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/1.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/4.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/3.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/2.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/1.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/4.jpg",
+      "title": "Pentingnya Memiliki Jiwa Entrepreneur Didalam Diri Mahasiswa",
+      "date": "Sabtu, 29 September 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/3.jpg",
+      "title": "Pelatihan Wirausaha Pada Masyarakat Sekitar Kampus Universitas Pancasila",
+      "date": "Senin, 31 September 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/2.jpg",
+      "title": "Sosialasi Entrepreneurship Pada Mahasiswa Universitas Pancasila",
+      "date": "Rabu, 01 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "img": "./src/img/news/1.jpg",
+      "title": "Pelatihan Entrepreneurship Civitas Akademika Universitas Pancasila",
+      "date": "Minggu, 09 Oktober 2022",
+      "link": "#"
+    }
+  ],
+  "activity": [
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Kamis, 06 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Sosialisasi Wirausaha Pada Civitas Akademika Universitas Pancasila",
+      "date": "Jumat, 28 September 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Sosialisasi Wirausaha Pada Mahasiswa Baru Universitas Pancasila",
+      "date": "Rabu, 01 Oktober 2022",
+      "link": "#"
+    },
+    {
+      "title": "Acara Pelatihan Entrepreneurship Universitas Pancasila",
+      "date": "Minggu, 09 Oktober 2022",
+      "link": "#"
+    }
+  ]
+}
